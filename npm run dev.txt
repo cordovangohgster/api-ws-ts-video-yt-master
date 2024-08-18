@@ -1,0 +1,14 @@
+npm run dev
+
+
+el propio del proyecto
+https://www.youtube.com/watch?v=u3YbNYAalDc
+
+https://www.youtube.com/watch?v=6bAp_cvZet8
+
+
+
+https://github.com/andresayac/bot-wa-baileys
+
+https://codigoencasa.com/como-crear-un-chatbot-de-whatsapp/
+https://www.youtube.com/watch?v=5kiBdtSAqDM
